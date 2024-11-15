@@ -40,7 +40,7 @@ import ir.ehsannarmani.todo.cardtest.ui.theme.CardTestTheme
 import kotlinx.coroutines.launch
 import kotlin.math.absoluteValue
 
-const val dragThreshold = 3f
+const val dragThreshold = 2f
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
